@@ -1,6 +1,6 @@
 ### Zohaib Ijaz
 
-I am Sr. Software Engineer working at Enquizit, Lahore. I am a full stack developer and feel awesome working with React and Python. I am passionate about coding best practices and love to learn new things, technologies and to share that knowledge.
+I am Principal Software Engineer working at Enquizit, Lahore. I am a full stack developer and feel awesome working with React and Python. I am passionate about coding best practices and love to learn new things, technologies and to share that knowledge.
 
 Currently, I am focused on Javascript echo system and try to contribute in the form of open source github projects or npm packages in my free time.
 
